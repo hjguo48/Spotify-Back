@@ -71,8 +71,5 @@ fun Application.module() {
                 resources("songs")
             }
         }
-        get("/test") {
-            call.respondText { "this is a test route"}
-        }
     }
 }
