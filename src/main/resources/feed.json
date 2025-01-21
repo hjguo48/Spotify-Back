@@ -54,6 +54,22 @@
         "cover": "https://upload.wikimedia.org/wikipedia/en/d/d1/Stillfantasy.jpg",
         "artists": "Jay Chou",
         "description": "Jay Chou(周杰伦; born January 18, 1979) is a Taiwanese singer, songwriter, record producer, rapper, actor, and television personality."
+      },
+      {
+        "id": 8,
+        "album": "鸡你太美",
+        "year": "2024",
+        "cover": "https://gd-hbimg.huaban.com/776bc0697c42a83a8136de10f99e644eee8b85de34d0-NCeAPU_fw658webp",
+        "artists": "坤坤",
+        "description": "坤坤, 出生于1998年8月2日，他是一位练习时长两年半的个人练习生，喜欢唱跳rap和篮球。"
+      },
+      {
+        "id": 9,
+        "album": "忠诚",
+        "year": "2024",
+        "cover": "https://static.dw.com/image/15612510_1004.webp",
+        "artists": "将军",
+        "description": "金正恩，出生于1984年1月8日，是朝鲜民主主义人民共和国的太阳，喜欢吃忠诚和紫蛋。万岁！"
       }
     ]
   },
