@@ -5,37 +5,37 @@
       {
         "name": "HEXAGONAL (Intro)",
         "lyric": "Bizzy",
-        "src": "https://spotify-backend-1usn.onrender.com/songsLeeSSang_Hexagonal.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/LeeSSang_Hexagonal.mp3",
         "length": "3:47"
       },
       {
         "name": "Let`s Meet Now",
         "lyric": "Gary, Jang Gi-ha",
-        "src": "https://spotify-backend-1usn.onrender.com/songsLeeSSang_Let_s_Meet_Now.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/LeeSSang_Let_s_Meet_Now.mp3",
         "length": "3:34"
       },
       {
         "name": "The Woman Who Can't Break Up, The Man Who Can't Leave",
         "lyric": "Gary",
-        "src": "https://spotify-backend-1usn.onrender.com/songsLeeSSang_Can_t_Breakup_Girl_Can_t_Breakaway_Boy.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/LeeSSang_Can_t_Breakup_Girl_Can_t_Breakaway_Boy.mp3",
         "length": "4:44"
       },
       {
         "name": "Carousel",
         "lyric": "Gary",
-        "src": "https://spotify-backend-1usn.onrender.com/songsLeeSSang_Carousel.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/LeeSSang_Carousel.mp3",
         "length": "4:13"
       },
       {
         "name": "변해가네",
         "lyric": "Gary, Kim Chang-ki",
-        "src": "https://spotify-backend-1usn.onrender.com/songsLeeSSang_Changing.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/LeeSSang_Changing.mp3",
         "length": "4:13"
       },
       {
         "name": "Run",
         "lyric": "Gary",
-        "src": "https://spotify-backend-1usn.onrender.com/songsLeeSSang_Run.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/LeeSSang_Run.mp3",
         "length": "3:56"
       }
     ]
@@ -46,19 +46,19 @@
       {
         "name": "夜的第七章",
         "lyric": "Along Huang",
-        "src": "https://spotify-backend-1usn.onrender.com/songs夜的第七章.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/夜的第七章.mp3",
         "length": "3:48"
       },
       {
         "name": "听妈妈的话",
         "lyric": "Jay Chou",
-        "src": "https://spotify-backend-1usn.onrender.com/songs听妈妈的话.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/听妈妈的话.mp3",
         "length": "3:34"
       },
       {
         "name": "菊花台",
         "lyric": "Vincent Fang",
-        "src": "https://spotify-backend-1usn.onrender.com/songs菊花台.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/菊花台.mp3",
         "length": "4.53"
       }
     ]
@@ -69,7 +69,7 @@
       {
         "name": "Dangerous",
         "lyric": "Michael Jackson",
-        "src": "https://spotify-backend-1usn.onrender.com/songsDangerous.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/Dangerous.mp3",
         "length": "4:45"
       }
     ]
@@ -80,7 +80,7 @@
       {
         "name": "綠光",
         "lyric": "Stefanie",
-        "src": "https://spotify-backend-1usn.onrender.com/songs绿光.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/绿光.mp3",
         "length": "3:31"
       }
     ]
@@ -91,7 +91,7 @@
       {
         "name": "一千年以後",
         "lyric": "JJ Lin",
-        "src": "https://spotify-backend-1usn.onrender.com/songs一千年以后.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/一千年以后.mp3",
         "length": "3:47"
       }
     ]
@@ -102,7 +102,7 @@
       {
         "name": "Nxde",
         "lyric": "(G)I-DLE",
-        "src": "https://spotify-backend-1usn.onrender.com/songs(G)I-DLE_Nxde.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/(G)I-DLE_Nxde.mp3",
         "length": "3:47"
       }
     ]
@@ -113,13 +113,13 @@
       {
         "name": "Solo",
         "lyric": "Jennie",
-        "src": "https://spotify-backend-1usn.onrender.com/songssolo.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/solo.mp3",
         "length": "2:47"
       },
       {
         "name": "Kill this love",
         "lyric": "Blackpink",
-        "src": "https://spotify-backend-1usn.onrender.com/songskill_this_love.mp3",
+        "src": "https://spotify-backend-1usn.onrender.com/songs/kill_this_love.mp3",
         "length": "3:22"
       }
     ]
@@ -130,13 +130,13 @@
         {
             "name": "短裙你太美",
             "lyric": "KUN",
-            "src": "https://spotify-backend-1usn.onrender.com/songs短裙你太美.mp3",
+            "src": "https://spotify-backend-1usn.onrender.com/songs/短裙你太美.mp3",
             "length": "1:04"
         },
           {
             "name": "只因你太美",
             "lyric": "KUN",
-            "src": "https://spotify-backend-1usn.onrender.com/songs只因你太美.mp3",
+            "src": "https://spotify-backend-1usn.onrender.com/songs/只因你太美.mp3",
             "length": "3:38"
           }
         ]
